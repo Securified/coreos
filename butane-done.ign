@@ -1,6 +1,6 @@
 {
   "ignition": {
-    "version": "3.0.0"
+    "version": "3.4.0"
   },
   "passwd": {
     "users": [
@@ -8,6 +8,7 @@
         "name": "core",
         "sshAuthorizedKeys": [
           "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKC0sQMjjGmqHZrf7/B1cpDl4pUOKweK5WU8pE8hWTer"
+          "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC6dN/dofN64EKmm4eOkVrRRlRcTgDmyZNJcy41Rp1VpPSvGc+orpmitES2763b0makbzUy+nUwDLlYzGBgVKWFLxSw3MhtZ5v5Hgnn5DnepmbmmZqh/2amr2PLaOd/0GFULcDM9+dr18kMCiP89UkdoArgEZG6U9+QV7AFCPIfeCpw3yVSiLtLoJ6h7toOF5BO6JlgbHd/b9sPuMonN40MPTrCw84W7dS2NT462CDxAAIkbzC4uouCUFOb1GSkvb3P0trSeeLUnka3tN6qHRvXccjqJwHDbN59RMp5CnVYDDnhJ9W8DSLxVXtZVj5t1KQVXzEVamty02WQ1u3Ezkt04Tm0l/oIOVQr0kY8K7VZInHl8LUTEfRTkh82/hCDc2Ub6y5T7pg4dvFWkDPsnr9+PT8akzynY+eEvlXj6WtqTDO3yGUTKDRmONXbC6an9BgadtdL/Q1n4s6iQ1oSLiaGDWADpNX8OPKEZ1Ukve2Ex3RR44o66FIeImB1ztcL58i5Ub8A+v7W47+FUs6xUFBhr1TMruV3Q6vBLH+Tw1jA8Yjg69OsUwRZWo2QFTYJxBq8rQtg/6/KWKTCT2mT4ev9m6HYH3qRtOdsdQPSYjlBeErToUH2TS5WWac+kClA3qTPfh0cN00z6Lula/rCJlgIFDIqKxIx2o9fKw9eOQ7ElQ=="
         ]
       }
     ]
